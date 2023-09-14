@@ -1,2 +1,2 @@
 # Data-Mining-Homework
-[University homework]
+[University homework] Subject: Analysis of Data Intelligence
